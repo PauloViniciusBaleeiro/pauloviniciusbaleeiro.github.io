@@ -2347,12 +2347,12 @@ ul.icons {
   #footer .content {
     display: -moz-flex;
     display: -webkit-flex;
-    display: -ms-flex;
+        display: -ms-flex;
     display: flex; }
     #footer .content section {
-      width: 25%; }
+      width: 50%; }
       #footer .content section:first-child {
-        width: 50%;
+        width: 80%;
         padding-right: 4rem; }
       #footer .content section:last-child {
         padding-left: 4rem; }
